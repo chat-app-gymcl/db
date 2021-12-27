@@ -1,1 +1,1 @@
-# db
+# Nastavení databází
